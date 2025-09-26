@@ -36,16 +36,12 @@
 
 ### Blogs
 - [Amit Chaudhary](http://www.amitness.com)
-- [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 - [Digamber Pradhan](http://www.digamberpradhan.com.np/)
 - [Geshan.com.np](http://geshan.com.np)
-- [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
 - [Lakshman Basnet](http://www.lakshmanbasnet.com.np/)
 - [Madhu Sudhan Subedi](https://madhusudhansubedi.com.np/#blog)
-- [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 - [Sameer Nyaupane](https://medium.com/@sameernyaupane)
 - [Samundra.com.np](http://www.samundra.com.np)
-- [Umesh Ghimire](http://blog.umeshghimire.com.np/)
 
 Pull Request is sufficient to add your project, contributions for this Readme file.
 
